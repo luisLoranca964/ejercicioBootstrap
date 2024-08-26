@@ -1,0 +1,5 @@
+@media (max-width: 576px) {
+    .footer-item, p, h5 {
+        text-align: center;
+    }
+}
